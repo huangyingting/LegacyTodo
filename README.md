@@ -1,4 +1,5 @@
-## LegacyTodo
+LegacyTodo
+==============
 
 Demo application created for cloud migration
 
